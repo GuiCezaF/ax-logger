@@ -1,0 +1,22 @@
+{
+  "name": "ax-logger",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "dist/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GuiCezaF/ax-logger.git"
+  },
+  "author": "Guiulherme Cezarino Felipe",
+  "license": "MIT"
+}
