@@ -65,7 +65,7 @@ O Logger fornece métodos para diferentes níveis de log, todos formatados com c
 O Logger aceita um parâmetro opcional no construtor:
 
 ```ts
-  const log = new Logger(); //padrão tera o timestamps no log
+  const log = new Logger(); //padrão com timestamps no log
 
   const log = new Logger(false); // Desativa timestamps nos logs
 ```
