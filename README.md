@@ -73,5 +73,3 @@ O Logger aceita um parâmetro opcional no construtor:
 ## 📜 Licença
 
 Este projeto está licenciado sob a MIT License.
-
-*Agora é só salvar esse arquivo no seu repositório!* 😃🚀
